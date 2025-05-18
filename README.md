@@ -3,6 +3,13 @@
 <!--
 **EitanBeCe/EitanBeCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Github Readme Generator: [https://rahuldkjain.github.io/gh-prof...](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+Github Profile Readme Generator: [https://profile-readme-generator.com/](https://profile-readme-generator.com/)
+
+Github Repo with all cool Portfolio: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
