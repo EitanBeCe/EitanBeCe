@@ -15,7 +15,7 @@ Github Repo with all cool Portfolio: https://github.com/abhisheknaiidu/awesome-g
 
 - 🌱 I’m currently learning: **Next.js and Java**
 
-- 👨‍💻 All of my projects are available at [https://eitanportfolio.netlify.app/](https://eitanportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at **[https://eitanportfolio.netlify.app/](https://eitanportfolio.netlify.app/)**
 
 - 💬 Ask me about: **react, next.js and gsap**
 
