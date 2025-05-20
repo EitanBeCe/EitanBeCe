@@ -11,6 +11,10 @@ Github Repo with all cool Portfolio: https://github.com/abhisheknaiidu/awesome-g
 <h1 align="center">Hi 👋, I'm Eitan</h1>
 <h3 align="center">A React frontend developer from Israel</h3>
 
+<a href="https://eitanportfolio.netlify.app" target="_blank">
+  <img src="https://eitanportfolio.netlify.app/portfolioScreenshot.png" alt="My Portfolio" width="100%" />
+</a>
+
 - 🔭 I’m working for 3+ years in [Consumrz.com](https://consumrz.com)
 
 - 🌱 I’m currently learning: **Next.js and Java**
