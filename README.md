@@ -13,15 +13,15 @@ Github Repo with all cool Portfolio: https://github.com/abhisheknaiidu/awesome-g
 
 - 🔭 I’m working for 3+ years in [Consumrz.com](https://consumrz.com)
 
-- 🌱 I’m currently learning **Next.js and Java**
+- 🌱 I’m currently learning: **Next.js and Java**
 
 - 👨‍💻 All of my projects are available at [https://eitanportfolio.netlify.app/](https://eitanportfolio.netlify.app/)
 
-- 💬 Ask me about **react, next.js and gsap**
+- 💬 Ask me about: **react, next.js and gsap**
 
-- 📫 How to reach me **eitanleviberger@gmail.com**
+- 📫 How to reach me: **eitanleviberger@gmail.com**
 
-- ⚡ Fun fact **Worked as educator and psychologist for years. Make art as a hobbie**
+- ⚡ Fun fact: **Worked as educator and psychologist for years. Make art as a hobbie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
