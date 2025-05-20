@@ -21,13 +21,17 @@ Github Repo with all cool Portfolio: https://github.com/abhisheknaiidu/awesome-g
 
 - 📫 How to reach me: **eitanleviberger@gmail.com**
 
-- ⚡ Fun fact: **Worked as educator and psychologist for years. Make art as a hobbie**
+- ⚡ Fun fact: **Educator and psychologist for years. Now making art as a hobby.**
+  
+- ‼️ Important: **I already hate the word PASSIONATE🤢. You too?**
 
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/eitan-elberg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eitan-elberg" height="30" width="40" /></a>
 </p>
 
+<br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
