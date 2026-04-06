@@ -57,7 +57,7 @@ Github Repo with all cool Portfolio: https://github.com/abhisheknaiidu/awesome-g
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eitanbece&show_icons=true&locale=en&layout=compact" alt="eitanbece" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eitanbece&show_icons=true&locale=en&layout=compact" alt="eitanbece" /></p> -->
 
 
 
