@@ -61,4 +61,4 @@ Github Repo with all cool Portfolio: https://github.com/abhisheknaiidu/awesome-g
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanbece&" alt="eitanbece" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanbece&hide_current_streak=true&hide_longest_streak=true" alt="eitanbece" /></p>
