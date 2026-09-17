@@ -26,8 +26,6 @@ Github Repo with all cool Portfolio: https://github.com/abhisheknaiidu/awesome-g
 - 📫 How to reach me: **eitanleviberger@gmail.com**
 
 - ⚡ Fun fact: **Educator and psychologist for years. Now making art as a hobby.**
-  
-- ‼️ Important: **I already hate the word PASSIONATE🤢. You too?**
 
 <br />
 <h3 align="left">Connect with me:</h3>
