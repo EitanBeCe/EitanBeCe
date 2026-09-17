@@ -15,9 +15,9 @@ Github Repo with all cool Portfolio: https://github.com/abhisheknaiidu/awesome-g
   <img src="https://eitanportfolio.netlify.app/portfolioScreenshot.png" alt="My Portfolio" width="100%" />
 </a>
 
-- 🔭 I've been working at [Consumrz.com](https://consumrz.com) for over 3 years
+- 🔭 I've been working at [Consumrz.com](https://consumrz.com) for over 4 years
 
-- 🌱 I’m currently learning: **Next.js and Java**
+- 🌱 I’m currently learning: **Java**
 
 - 👨‍💻 All of my projects are available at **[https://eitanportfolio.netlify.app/](https://eitanportfolio.netlify.app/)**
 
